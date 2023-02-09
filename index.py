@@ -1,3 +1,4 @@
+#! First exercise
 #!class Car:
 #!    def __init__(self, name, color, speed):
 #!        self.name = name
@@ -13,7 +14,7 @@
 
 #! ***************************************************
 
-
+#* Second exercise
 class Phone:
     def __init__(self, name, color, price):
         self._name = name
